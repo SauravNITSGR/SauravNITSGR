@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 
 
+-------------------------------------------
+
+
+ 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/SauravNITSGR/count.svg?align=center)
+
+
+
+----------------------------------------------------
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravnitsgr&label=Profile%20views&color=0e75b6&style=flat" alt="sauravnitsgr" /> </p>
 
