@@ -8,6 +8,9 @@
 
 - 🔭 I’m currently studying Cse at **NIT Srinagar.**
 
+- 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
+
+
 - 📫 How to reach me **saurav_2019bcse043@nitsri.net **
 
 
