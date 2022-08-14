@@ -5,7 +5,6 @@
 
 
  🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/SauravNITSGR/count.svg?align=center)
 
 
 
