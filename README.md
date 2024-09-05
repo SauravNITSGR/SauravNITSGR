@@ -52,15 +52,10 @@
 ------------------------------
 
 ### 🌎 Find me around the web 
-<p align="left">
-<a href="https://linkedin.com/in/saurav8102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav1419" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/saurav_8102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saurav_8102" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saurav8102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saurav8102" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sauravshailesh1936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sauravshailesh1936" height="30" width="40" /></a>
- <a href="https://www.leetcode.com/saurav8102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tm2023" height="30" width="40" /></a>
-</p>
-
-
+[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:sauravshailesh1936@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saurav8102/) 
+[<img src = "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">](https://leetcode.com/u/saurav8102/)
+[<img src= "https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=whitehttps">](https://codeforces.com/profile/saurav8102)
 ------------------
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravNITSGR&layout=compact&theme=react&border=true) 
@@ -91,7 +86,6 @@
  <br>
  </p>
  
-  -------------------------------------------------------------------------
   
 
 
