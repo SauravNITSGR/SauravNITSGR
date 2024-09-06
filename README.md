@@ -7,7 +7,12 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 <h3 align="center">A passionate software developer from India, working as a Software Developer at GlobalLogic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravnitsgr&label=Profile%20views&color=0e75b6&style=flat" alt="sauravnitsgr" /> </p>
+-----------------------
+
+ 👁 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/SauravNITSGR/count.svg?align=center)
+
+---------------------------------
 
 👩**About myself**
 
